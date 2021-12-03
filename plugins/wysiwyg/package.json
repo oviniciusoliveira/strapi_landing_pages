@@ -12,20 +12,20 @@
     "@ckeditor/ckeditor5-react": "^3.0.2"
   },
   "author": {
-    "name": "A Strapi developer",
-    "email": "",
-    "url": ""
+    "name": "Vinicius Oliveira",
+    "email": "viniciuso.contato@gmail.com",
+    "url": "https://viniciusdeoliveira.net"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer",
-      "email": "",
-      "url": ""
+      "name": "Vinicius Oliveira",
+      "email": "viniciuso.contato@gmail.com",
+      "url": "https://viniciusdeoliveira.net"
     }
   ],
   "engines": {
-    "node": ">=10.16.0 <=14.x.x",
-    "npm": ">=6.0.0"
+    "node": "14.17.6",
+    "npm": "8.1.0"
   },
   "license": "MIT"
 }
